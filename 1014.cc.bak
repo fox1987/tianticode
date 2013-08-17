@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+ * misunderstan the problem
+ * treat as a repetated bag
+ */
 #define DEBUG
 const int kMaxGoodsNum = 30;
 const int kMaxCapacityNum = 20000;
