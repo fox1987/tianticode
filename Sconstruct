@@ -22,3 +22,7 @@ Program(target='3116',
         source='3116.cc')
 Program(target='3115',
         source='3115.cc')
+Program(target='3117',
+        source='3117.cc')
+Program(target='1014',
+        source='1014.cc')
