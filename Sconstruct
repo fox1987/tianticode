@@ -40,3 +40,5 @@ Program(target='1048_tanxin',
         source='1048_tanxin.cc')
 Program(target='1048_garsiawatch',
         source='1048_garsiawatch.cc')
+Program(target='1294',
+        source='1294.cc')
