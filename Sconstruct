@@ -42,3 +42,7 @@ Program(target='1048_garsiawatch',
         source='1048_garsiawatch.cc')
 Program(target='1294',
         source='1294.cc')
+Program(target='1295',
+        source='1295.cc')
+Program(target='1039',
+        source='1039.cc')
